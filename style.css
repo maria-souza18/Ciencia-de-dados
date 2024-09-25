@@ -57,9 +57,12 @@ nav a:hover {
     border: var(--secondary-color) solid 2px;
   }
 
-  
+  span {
+    font-weight: bold;
+    color: var(--secondary-color);
+   }
 
-footer {
+ footer {
     display: flex;
     align-items: center;
     justify-content: center;
